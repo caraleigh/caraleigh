@@ -1,0 +1,298 @@
+.style {
+    padding: 4px;
+}
+.paragraph_style {
+    color: rgb(255, 255, 255);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 72px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing:     0.10em;
+    line-height: 86px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+.paragraph_style_1 {
+    color: rgb(209, 209, 209);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing:     0.39em;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_539_106 {
+    position: relative;
+}
+.paragraph_style_2 {
+    color: rgb(209, 209, 209);
+    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing:     0.10em;
+    line-height: 43px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1.vertical-align-middle-innerbox {
+    padding: 4px;
+}
+.style_External_246_373.vertical-align-middle-middlebox {
+    height: 373px;
+    position: relative;
+    width: 246px;
+}
+.paragraph_style_3 {
+    color: rgb(203, 203, 203);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    font-family: 'Helvetica-Oblique', 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 23px;
+}
+.style_3 {
+    font-family: 'Helvetica-Oblique', 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 23px;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Free_Form {
+    color: rgb(255, 255, 255);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: rgb(255, 255, 255);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_539_106 {
+    position: relative;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_515_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_246_373 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_92_92 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_367_51 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#widget1 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+#widget0 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#widget1 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget0 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+#widget1 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
