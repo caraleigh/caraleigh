@@ -222,11 +222,11 @@ a.class1:visited {
     color: rgb(150, 150, 150);
 }
 a.class1:hover {
-    color: rgb(233, 233, 233);
+    text-decoration: none;
 }
 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 #widget1 a {
     color: rgb(203, 203, 203);
@@ -234,11 +234,11 @@ a:hover {
 }
 #widget0 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 #widget1 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 #widget0 a:visited {
     color: rgb(150, 150, 150);

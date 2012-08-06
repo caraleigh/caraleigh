@@ -220,17 +220,6 @@ a:visited {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
-a.class1 {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
-}
-a.class1:visited {
-    color: rgb(121, 121, 124);
-    text-decoration: none;
-}
-a.class1:hover {
-    color: rgb(233, 233, 233);
-}
 a:hover {
     color: rgb(233, 233, 233);
     text-decoration: none;
