@@ -150,10 +150,10 @@
 .graphic_textbox_layout_style_default_External_515_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_92_92 {
+.graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_367_51 {
+.graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
@@ -168,7 +168,7 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 a.class1 {
@@ -176,30 +176,29 @@ a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
-    color: rgb(121, 121, 124);
-    text-decoration: none;
+    color: rgb(150, 150, 150);
 }
 a.class1:hover {
-    color: rgb(233, 233, 233);
+    text-decoration: none;
 }
 a:hover {
-    color: rgb(189, 37, 44);
-    text-decoration: none;
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 #widget1 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
 #widget0 a:hover {
-    color: rgb(189, 37, 44);
-    text-decoration: none;
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 #widget1 a:hover {
-    color: rgb(189, 37, 44);
-    text-decoration: none;
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 #widget0 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 #widget0 a {
@@ -207,7 +206,7 @@ a:hover {
     text-decoration: none;
 }
 #widget1 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 .spacer {

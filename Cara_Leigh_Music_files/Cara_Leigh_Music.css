@@ -57,9 +57,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_539_106 {
-    position: relative;
-}
 .paragraph_style_2 {
     color: rgb(209, 209, 209);
     font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
@@ -81,6 +78,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_539_94 {
+    position: relative;
 }
 .Free_Form {
     color: rgb(255, 255, 255);
@@ -129,7 +129,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_539_106 {
+.Normal_External_539_94 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -146,10 +146,10 @@
 .graphic_textbox_layout_style_default_External_515_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_92_92 {
+.graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_367_51 {
+.graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
@@ -164,7 +164,7 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 a.class1 {
@@ -172,34 +172,33 @@ a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
-    color: rgb(121, 121, 124);
-    text-decoration: none;
+    color: rgb(150, 150, 150);
 }
 a.class1:hover {
-    color: rgb(233, 233, 233);
+    text-decoration: none;
 }
 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 #widget1 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 #widget0 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 #widget1 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 .spacer {
     font-size: 1px;
     line-height: 1px;
 }
 #widget2 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(150, 150, 150);
     text-decoration: none;
 }
 .tinyText {
@@ -216,7 +215,7 @@ a:hover {
 }
 #widget0 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 #widget2 a {
     color: rgb(203, 203, 203);
@@ -224,7 +223,7 @@ a:hover {
 }
 #widget2 a:hover {
     color: rgb(233, 233, 233);
-    text-decoration: none;
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;
