@@ -220,8 +220,19 @@ a:visited {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
+a.class1 {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(233, 233, 233);
+}
 a:hover {
-    color: rgb(189, 37, 44);
+    color: rgb(233, 233, 233);
     text-decoration: none;
 }
 #widget1 a {
@@ -229,11 +240,11 @@ a:hover {
     text-decoration: none;
 }
 #widget0 a:hover {
-    color: rgb(189, 37, 44);
+    color: rgb(233, 233, 233);
     text-decoration: none;
 }
 #widget1 a:hover {
-    color: rgb(189, 37, 44);
+    color: rgb(233, 233, 233);
     text-decoration: none;
 }
 #widget0 a:visited {
