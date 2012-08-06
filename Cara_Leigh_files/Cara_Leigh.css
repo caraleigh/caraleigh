@@ -219,7 +219,7 @@ a.class1 {
     text-decoration: none;
 }
 a.class1:visited {
-    color: rgb(203, 203, 203);
+    color: rgb(150, 150, 150);
 }
 a.class1:hover {
     color: rgb(158, 50, 46);
