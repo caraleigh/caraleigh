@@ -220,6 +220,34 @@ a:hover {
     color: rgb(233, 233, 233);
     text-decoration: underline;
 }
+#widget1 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+#widget0 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+#widget1 a:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget2 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
 #widget1 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
@@ -228,29 +256,13 @@ a:hover {
     color: rgb(233, 233, 233);
     text-decoration: underline;
 }
-#widget1 a:hover {
-    color: rgb(233, 233, 233);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(150, 150, 150);
-    text-decoration: none;
-}
-#widget0 a {
+#widget2 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: rgb(150, 150, 150);
-    text-decoration: none;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
+#widget2 a:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;
