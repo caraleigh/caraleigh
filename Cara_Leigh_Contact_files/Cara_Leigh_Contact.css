@@ -49,6 +49,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 0.36;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -79,7 +83,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_3 {
+.style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
