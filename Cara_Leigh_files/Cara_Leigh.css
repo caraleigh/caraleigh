@@ -127,6 +127,54 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_5 {
+    color: rgb(255, 255, 255);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_6 {
+    color: rgb(255, 255, 255);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing:     0.06em;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
+    letter-spacing:     0.03em;
+    line-height: 19px;
+}
 .style_External_539_94 {
     position: relative;
 }
@@ -200,6 +248,9 @@
 .graphic_textbox_layout_style_default_External_308_116 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_311_114 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
 }
@@ -232,6 +283,34 @@ a:hover {
     color: rgb(233, 233, 233);
     text-decoration: underline;
 }
+#widget1 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+#widget0 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+#widget1 a:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget2 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
 #widget1 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
@@ -240,29 +319,13 @@ a:hover {
     color: rgb(233, 233, 233);
     text-decoration: underline;
 }
-#widget1 a:hover {
-    color: rgb(233, 233, 233);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(150, 150, 150);
-    text-decoration: none;
-}
-#widget0 a {
+#widget2 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: rgb(150, 150, 150);
-    text-decoration: none;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
+#widget2 a:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;
