@@ -108,13 +108,13 @@
 .paragraph_style_4 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
-    letter-spacing: 0;
-    line-height: 19px;
+    letter-spacing:     0.09em;
+    line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -152,13 +152,13 @@
 .paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
-    letter-spacing:     0.06em;
-    line-height: 19px;
+    letter-spacing:     0.09em;
+    line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -173,10 +173,6 @@
 }
 .style_External_539_94 {
     position: relative;
-}
-.style_1 {
-    letter-spacing:     0.03em;
-    line-height: 19px;
 }
 .Free_Form {
     color: rgb(255, 255, 255);
@@ -242,16 +238,16 @@
 .graphic_textbox_layout_style_default_External_515_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_311_119 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_308_116 {
+.graphic_textbox_layout_style_default_External_311_91 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_311_111 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
@@ -299,9 +295,17 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
+#widget3 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
 #widget2 a:visited {
     color: rgb(150, 150, 150);
     text-decoration: none;
+}
+#widget3 a:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 .tinyText {
     font-size: 1px;
@@ -330,6 +334,10 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget3 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
