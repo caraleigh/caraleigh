@@ -85,12 +85,12 @@
 }
 .paragraph_style_3 {
     color: rgb(255, 255, 255);
-    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 11px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 13px;
     margin-bottom: 0px;
@@ -245,7 +245,7 @@
 .graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_298_63 {
+.graphic_textbox_layout_style_default_External_301_63 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_311_94 {
