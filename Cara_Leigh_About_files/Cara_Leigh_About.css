@@ -85,12 +85,12 @@
 }
 .paragraph_style_3 {
     color: rgb(203, 203, 203);
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Helvetica-Light', 'Helvetica';
     font-size: 15px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 100;
     letter-spacing: 0;
     line-height: 22px;
     margin-bottom: 0px;
