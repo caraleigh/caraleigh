@@ -127,9 +127,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_539_94 {
-    position: relative;
-}
 .paragraph_style_5 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica-Light', 'Helvetica';
@@ -151,6 +148,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_539_94 {
+    position: relative;
 }
 .Free_Form {
     color: rgb(255, 255, 255);
@@ -225,19 +225,19 @@
 .graphic_textbox_layout_style_default_External_331_135 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_328_22 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_333_25 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_322_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_333_40 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_328_38 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
