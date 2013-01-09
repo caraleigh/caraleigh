@@ -98,7 +98,7 @@
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
+    padding-bottom: 4px;
     padding-top: 0px;
     text-align: left;
     text-decoration: underline;
@@ -113,7 +113,7 @@
     font-style: normal;
     font-variant: normal;
     font-weight: 100;
-    letter-spacing:     0.21em;
+    letter-spacing:     0.17em;
     line-height: 16px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -155,13 +155,13 @@
 .paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica-Light', 'Helvetica';
-    font-size: 11px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 100;
     letter-spacing: 0;
-    line-height: 13px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -238,16 +238,13 @@
 .graphic_textbox_layout_style_default_External_515_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_323_77 {
+.graphic_textbox_layout_style_default_External_315_81 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_330_109 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_322_27 {
+.graphic_textbox_layout_style_default_External_335_38 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
@@ -259,7 +256,7 @@
 .graphic_textbox_layout_style_default_External_100_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_328_38 {
+.graphic_textbox_layout_style_default_External_331_113 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
