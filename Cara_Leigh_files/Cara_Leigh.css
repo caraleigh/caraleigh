@@ -127,6 +127,15 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    font-family: 'Helvetica-Light', 'Helvetica';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+    letter-spacing:     0.26em;
+    line-height: 17px;
+}
 .style_External_539_94 {
     position: relative;
 }
@@ -251,17 +260,9 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-#widget3 a:visited {
-    color: rgb(150, 150, 150);
-    text-decoration: none;
-}
 #widget2 a:visited {
     color: rgb(150, 150, 150);
     text-decoration: none;
-}
-#widget3 a:hover {
-    color: rgb(233, 233, 233);
-    text-decoration: underline;
 }
 .tinyText {
     font-size: 1px;
@@ -290,10 +291,6 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget3 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
