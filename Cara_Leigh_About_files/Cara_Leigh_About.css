@@ -179,10 +179,10 @@
 .graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_207_345 {
+.graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_92_92 {
+.graphic_textbox_layout_style_default_External_207_498 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
@@ -211,14 +211,24 @@ a.class1:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
+    text-decoration: underline;
 }
 a.class2:visited {
     color: rgb(121, 121, 124);
 }
 a.class2:hover {
     text-decoration: none;
+}
+a.class3 {
+    text-decoration: underline;
+}
+a.class3:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 a:hover {
     color: rgb(233, 233, 233);
