@@ -83,6 +83,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    padding: 0px;
+}
 .paragraph_style_3 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -105,6 +108,14 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_2 {
+    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+}
 .paragraph_style_4 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica-Light', 'Helvetica';
@@ -113,30 +124,32 @@
     font-style: normal;
     font-variant: normal;
     font-weight: 100;
-    letter-spacing:     0.17em;
-    line-height: 16px;
+    letter-spacing:     0.16em;
+    line-height: 22px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 12px;
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
+.style_External_539_94 {
+    position: relative;
+}
+.style_3 {
     font-family: 'Helvetica-Light', 'Helvetica';
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 100;
-    letter-spacing:     0.26em;
-    line-height: 17px;
+    line-height: 24px;
 }
-.style_External_539_94 {
+.style_External_332_163 {
     position: relative;
 }
 .Free_Form {
@@ -203,16 +216,13 @@
 .graphic_textbox_layout_style_default_External_515_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_342_75 {
+.graphic_textbox_layout_style_default_External_332_163 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_308_81 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
