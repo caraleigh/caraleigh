@@ -149,7 +149,10 @@
     font-weight: 100;
     line-height: 24px;
 }
-.style_External_332_163 {
+.style_External_316_94 {
+    position: relative;
+}
+.style_External_323_163 {
     position: relative;
 }
 .Free_Form {
@@ -216,10 +219,13 @@
 .graphic_textbox_layout_style_default_External_515_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_332_163 {
+.graphic_textbox_layout_style_default_External_334_51 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_334_51 {
+.graphic_textbox_layout_style_default_External_323_163 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_316_94 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
@@ -270,9 +276,17 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
+#widget3 a:visited {
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+}
 #widget2 a:visited {
     color: rgb(150, 150, 150);
     text-decoration: none;
+}
+#widget3 a:hover {
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
 }
 .tinyText {
     font-size: 1px;
@@ -301,6 +315,10 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget3 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
