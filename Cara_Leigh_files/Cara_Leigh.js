@@ -1,7 +1,7 @@
-// Created by iWeb 3.0 local-build-20130506
+// Created by iWeb 3.0 local-build-20130507
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_4:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_5:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_2:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_0:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_1:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_3:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000})});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_5:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_0:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_3:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_1:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_2:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000}),shadow_4:new IWShadow({blurRadius:1,offset:new IWPoint(-2.6239,1.4544),color:'#000000',opacity:0.700000})});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()
